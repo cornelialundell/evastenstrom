@@ -184,6 +184,10 @@ mix-blend-mode: hard-light;
     font-size: 1.4rem;
 }
 
+.ptop {
+    padding-top: 5px;
+}
+
 .swiper {
     width: 500px;
     height: 450px;
@@ -194,6 +198,7 @@ mix-blend-mode: hard-light;
     width: 10px;
     height: 10px;
 }
+
 
 
 .quote, .signature {
