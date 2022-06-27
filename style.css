@@ -80,8 +80,9 @@ mix-blend-mode: hard-light;
 }
 
 .hero__text h1 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     line-height: 1.1;
+    font-weight: 400;
 }
 
 
@@ -96,8 +97,12 @@ mix-blend-mode: hard-light;
         background-position: bottom;
     }
 
-    .hero__text h1 {
+    .hero__text h2 {
         font-size: 2.5rem;
+    }
+    
+    .hero__text h1 {
+        font-size: 1rem;
     }
 
     .hero__text p { 
