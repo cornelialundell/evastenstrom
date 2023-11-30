@@ -46,7 +46,7 @@ a {
 }
 #hero {
     width: 100%;
-    min-height: 100dvh;
+    min-height: 100vh;
     background-image: url(./img/hero.jpg);
     background-size: cover;
     background-position: center;
